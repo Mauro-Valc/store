@@ -1,0 +1,16 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "Proyecto para la clase desarrollo web con nuevas tecnologias, que consiste en una tienda de peliculas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "npm test"
+  },
+  "author": "m.valencia298",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
